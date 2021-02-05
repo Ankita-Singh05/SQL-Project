@@ -14,7 +14,7 @@ Fitness Project
 
 ## Conceptual Database Design (To-Be ERD)
 
-Our cancellation service will support the 5 C’s in the following ways:
+Cancellation service will support the 5 C’s in the following ways:
 •	Capture: For the cancellation service to function effectively and improve the business, the Lifetime Fitness gym must obtain more feedback-based information from 
 the gym members. Customers will be requested for their inputs/feedback when discontinuing the gym membership. The preferred rate and membership plan will be captured 
 to suggest the customer a new rate: If the customer is canceling the service due to the high rates; If the cancellation is due to dissatisfaction, the reason for 
